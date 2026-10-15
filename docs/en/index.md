@@ -71,5 +71,5 @@ Support for Rhai scripts and declarative YAML plugin mechanisms to easily extend
 ## Community
 
 - [GitHub Issues](https://github.com/G3G4X5X6/flowmind-docs/issues) - Report product issues and suggestions
-- [Docs Issues](https://github.com/gougu-security/flowmind-docs/issues) - Report documentation issues
+- [Docs Issues](https://github.com/G3G4X5X6/flowmind-docs/issues) - Report documentation issues
 - [Contributing Guide](./dev/contributing.md) - Contribute to documentation

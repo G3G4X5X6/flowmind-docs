@@ -20,7 +20,7 @@
 ### 1. Fork 并克隆
 
 ```bash
-git clone https://github.com/gougu-security/flowmind-docs.git
+git clone https://github.com/G3G4X5X6/flowmind-docs.git
 cd flowmind-docs
 pnpm install
 ```
@@ -44,7 +44,7 @@ pnpm preview
 
 1. 创建功能分支：`git checkout -b docs/your-topic`
 2. 保持中英文文档同步（如适用）
-3. 在 [flowmind-docs](https://github.com/gougu-security/flowmind-docs) 创建 PR
+3. 在 [flowmind-docs](https://github.com/G3G4X5X6/flowmind-docs) 创建 PR
 
 ## 公开贡献：扫描插件
 
@@ -97,5 +97,5 @@ docs(en): sync getting-started with Chinese version
 
 ## 社区
 
-- **文档 Issues**：[gougu-security/flowmind-docs](https://github.com/gougu-security/flowmind-docs/issues)
+- **文档 Issues**：[G3G4X5X6/flowmind-docs](https://github.com/G3G4X5X6/flowmind-docs/issues)
 - **产品反馈**：[G3G4X5X6/flowmind-docs](https://github.com/G3G4X5X6/flowmind-docs/issues)

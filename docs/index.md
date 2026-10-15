@@ -72,5 +72,5 @@ features:
 ## 社区
 
 - [GitHub Issues](https://github.com/G3G4X5X6/flowmind-docs/issues) - 报告产品问题与建议
-- [文档 Issues](https://github.com/gougu-security/flowmind-docs/issues) - 报告文档问题
+- [文档 Issues](https://github.com/G3G4X5X6/flowmind-docs/issues) - 报告文档问题
 - [贡献指南](./dev/contributing.md) - 参与文档贡献

@@ -44,7 +44,7 @@ We welcome the following forms of technical cooperation:
 For commercial inquiries:
 
 - **Email**: flowmind@qq.com
-- **Website**: https://gougu-security.github.io/flowmind-docs
+- **Website**: https://g3g4x5x6.github.io/flowmind-docs/
 
 ::: tip Partnership Process
 1. Requirements Discussion → 2. Solution Design → 3. POC Validation → 4. Contract Signing → 5. Delivery

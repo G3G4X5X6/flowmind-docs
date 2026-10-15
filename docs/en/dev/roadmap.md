@@ -65,7 +65,7 @@ flowchart TD
 
 ## Contribute
 
-- [Docs issues](https://github.com/gougu-security/flowmind-docs/issues)
+- [Docs issues](https://github.com/G3G4X5X6/flowmind-docs/issues)
 - [Product issues](https://github.com/G3G4X5X6/flowmind-docs/issues)
 - [Contributing guide](./contributing.md)
 

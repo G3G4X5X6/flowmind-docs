@@ -92,7 +92,7 @@ flowchart TD
 
 如果您对路线图中的某个方向感兴趣，欢迎：
 
-- 在 [文档仓库 Issues](https://github.com/gougu-security/flowmind-docs/issues) 讨论文档改进
+- 在 [文档仓库 Issues](https://github.com/G3G4X5X6/flowmind-docs/issues) 讨论文档改进
 - 提交 Pull Request 改进公开文档或插件示例
 - 在 [flowmind-docs Issues](https://github.com/G3G4X5X6/flowmind-docs/issues) 反馈产品问题
 

@@ -70,4 +70,4 @@ FlowMind 的目标是成为安全从业者的**一站式桌面工作台**，消�
 
 1. **查看文档**：浏览本指南的各个章节
 2. **GitHub Issues**：[提交产品问题](https://github.com/G3G4X5X6/flowmind-docs/issues)
-3. **文档 Issues**：[提交文档问题](https://github.com/gougu-security/flowmind-docs/issues)
+3. **文档 Issues**：[提交文档问题](https://github.com/G3G4X5X6/flowmind-docs/issues)

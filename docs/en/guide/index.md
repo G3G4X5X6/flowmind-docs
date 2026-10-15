@@ -67,4 +67,4 @@ If you encounter issues, you can get help through:
 
 1. **Documentation**: Browse the sections of this guide
 2. **GitHub Issues**: [Report product issues](https://github.com/G3G4X5X6/flowmind-docs/issues)
-3. **Docs Issues**: [Report documentation issues](https://github.com/gougu-security/flowmind-docs/issues)
+3. **Docs Issues**: [Report documentation issues](https://github.com/G3G4X5X6/flowmind-docs/issues)

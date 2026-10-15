@@ -2,7 +2,7 @@
 
 **AI-Native 应用安全平台** — 面向安全工程师的一站式桌面安全工作台。集成 MITM 代理抓包、流量分析、请求重放、模糊测试、插件化安全检测、精美 HTML 报告与 AI 推理，将渗透测试全流程收敛到单一工具中，让安全人员专注于发现问题而非切换工具。
 
-[![在线文档](https://img.shields.io/badge/文档-在线阅读-6366f1?style=flat-square)](https://gougu-security.github.io/flowmind-docs/)
+[![在线文档](https://img.shields.io/badge/文档-在线阅读-6366f1?style=flat-square)](https://g3g4x5x6.github.io/flowmind-docs/)
 
 ![FlowMind 转发器界面](./docs/public/screenshots/首页.png)
 
@@ -63,20 +63,20 @@ FlowMind 以 **AI 原生** 为设计核心：AI 不只是辅助问答，而是�
 ## 快速上手
 
 1. 前往 [Releases](https://github.com/G3G4X5X6/flowmind-docs/releases) 下载对应平台安装包
-2. 阅读 [快速开始](https://gougu-security.github.io/flowmind-docs/guide/getting-started) 完成安装与证书配置
-3. 按需查阅 [用户指南](https://gougu-security.github.io/flowmind-docs/guide/) 探索各功能模块
+2. 阅读 [快速开始](https://g3g4x5x6.github.io/flowmind-docs/guide/getting-started) 完成安装与证书配置
+3. 按需查阅 [用户指南](https://g3g4x5x6.github.io/flowmind-docs/guide/) 探索各功能模块
 
-插件开发者请参阅 [插件开发文档](https://gougu-security.github.io/flowmind-docs/dev/plugins/rhai)。
+插件开发者请参阅 [插件开发文档](https://g3g4x5x6.github.io/flowmind-docs/dev/plugins/rhai)。
 
 ## 企业与合作
 
-需要私有化部署、定制开发或企业授权？欢迎通过 [合作开发](https://gougu-security.github.io/flowmind-docs/api/) 与 [企业版本](https://gougu-security.github.io/flowmind-docs/api/enterprise) 页面联系我们。
+需要私有化部署、定制开发或企业授权？欢迎通过 [合作开发](https://g3g4x5x6.github.io/flowmind-docs/api/) 与 [企业版本](https://g3g4x5x6.github.io/flowmind-docs/api/enterprise) 页面联系我们。
 
 ## 链接
 
 | 资源 | 地址 |
 |------|------|
-| 在线文档 | https://gougu-security.github.io/flowmind-docs/ |
+| 在线文档 | https://g3g4x5x6.github.io/flowmind-docs/ |
 | 产品仓库 | https://github.com/G3G4X5X6/flowmind-docs |
 | 问题反馈 | https://github.com/G3G4X5X6/flowmind-docs/issues |
 

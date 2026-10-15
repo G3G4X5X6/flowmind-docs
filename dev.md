@@ -63,12 +63,12 @@ pnpm preview
 
 推送到 `main` 分支后，GitHub Actions 会自动构建并部署文档。
 
-- 部署地址：`https://gougu-security.github.io/flowmind-docs/`
+- 部署地址：`https://g3g4x5x6.github.io/flowmind-docs/`
 - CI 会自动设置 VitePress `base: /flowmind-docs/`，本地开发无需修改
 
 **首次启用步骤（必须手动完成一次）：**
 
-1. 打开仓库 [Settings → Pages](https://github.com/gougu-security/flowmind-docs/settings/pages)
+1. 打开仓库 [Settings → Pages](https://github.com/G3G4X5X6/flowmind-docs/settings/pages)
 2. **Build and deployment → Source** 选择 **GitHub Actions**（不要选 Deploy from branch）
 3. 若为组织仓库，需组织管理员在组织 Settings → Pages 中允许仓库使用 Pages
 4. 推送代码到 `main` 分支，或手动运行 Actions 中的 **Deploy docs to GitHub Pages** workflow
@@ -126,7 +126,7 @@ pnpm build
 
 ## 相关链接
 
-- [在线文档](https://gougu-security.github.io/flowmind-docs/)
+- [在线文档](https://g3g4x5x6.github.io/flowmind-docs/)
 - [VitePress 官方文档](https://vitepress.dev/)
 - [FlowMind 产品仓库](https://github.com/G3G4X5X6/flowmind-docs)
-- [文档仓库](https://github.com/gougu-security/flowmind-docs)
+- [GitHub 仓库](https://github.com/G3G4X5X6/flowmind-docs)

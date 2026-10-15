@@ -20,7 +20,7 @@ Do not paste host source code, IPC lists, database schemas, or internal policy i
 ### 1. Fork and clone
 
 ```bash
-git clone https://github.com/gougu-security/flowmind-docs.git
+git clone https://github.com/G3G4X5X6/flowmind-docs.git
 cd flowmind-docs
 pnpm install
 ```
@@ -44,7 +44,7 @@ pnpm preview
 
 1. Create a branch: `git checkout -b docs/your-topic`
 2. Keep Chinese and English docs in sync when applicable
-3. Open a PR on [flowmind-docs](https://github.com/gougu-security/flowmind-docs)
+3. Open a PR on [flowmind-docs](https://github.com/G3G4X5X6/flowmind-docs)
 
 ## Public contribution: scan plugins
 
@@ -97,5 +97,5 @@ If unsure whether content is appropriate, note the audience in your PR for maint
 
 ## Community
 
-- **Docs issues**: [gougu-security/flowmind-docs](https://github.com/gougu-security/flowmind-docs/issues)
+- **Docs issues**: [G3G4X5X6/flowmind-docs](https://github.com/G3G4X5X6/flowmind-docs/issues)
 - **Product feedback**: [G3G4X5X6/flowmind-docs](https://github.com/G3G4X5X6/flowmind-docs/issues)
