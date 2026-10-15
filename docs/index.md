@@ -1,0 +1,76 @@
+---
+layout: home
+
+hero:
+  name: FlowMind
+  text: AI-Native 应用安全平台
+  tagline: 集成 MITM 代理、流量分析、模糊测试、安全扫描与 AI 推理的一站式安全工作台
+  image:
+    src: /logo.svg
+    alt: FlowMind
+  actions:
+    - theme: brand
+      text: 快速开始
+      link: /guide/getting-started
+    - theme: alt
+      text: 用户指南
+      link: /guide/
+    - theme: alt
+      text: GitHub
+      link: https://github.com/G3G4X5X6/flowmind-docs
+
+features:
+  - icon: 🔍
+    title: 智能代理抓包
+    details: 内嵌 Rust MITM 引擎，支持 HTTP/HTTPS/WebSocket 实时捕获，CA 证书自动管理，流量详情一目了然
+  - icon: 🔄
+    title: 流量转发与拦截
+    details: 实时转发器列表、请求详情面板、Hold/Modify/Drop 拦截控制，精确掌握每一个请求
+  - icon: 🎯
+    title: 请求重放与模糊测试
+    details: 支持原始报文重放、结构化请求编辑、多策略 Fuzz（IDOR/Auth Strip/Header 词表等）
+  - icon: 🛡️
+    title: 安全扫描引擎
+    details: 28 条内置被动规则 + 8 条主动规则，支持 Rhai 脚本自定义规则与热重载，自动检测敏感信息、注入攻击、配置缺陷等安全问题
+  - icon: 🤖
+    title: AI 安全分析
+    details: 多 Provider 对话、Tool Calling、MCP、Skills、智能重放与模糊测试建议
+  - icon: 📊
+    title: 项目管理与报告
+    details: 项目级数据隔离、素材剪藏、HTML/JSON/PDF 报告导出，轻松管理安全测试成果
+---
+
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #6366f1 30%, #06b6d4);
+}
+</style>
+
+
+![FlowMind 首页](/screenshots/首页.png)
+
+
+## 为什么选择 FlowMind？
+
+### 🚀 性能卓越
+
+基于 Rust 的内嵌代理引擎，无需外部依赖，启动即用。虚拟列表技术确保海量流量数据流畅浏览。
+
+### 🔒 安全可靠
+
+所有数据默认存储在本地，不上传云端。向外部 LLM 或 MCP 发送的内容取决于你在 AI 设置中的配置。
+
+### 🧠 AI 原生
+
+深度集成 AI 能力，支持多 Provider、工具调用、MCP、Skills 与 Engram 记忆，参与重放与模糊测试闭环。
+
+### 🔌 可扩展
+
+支持 Rhai 脚本和声明式 YAML 两种插件机制，轻松扩展扫描规则，满足定制化需求。
+
+## 社区
+
+- [GitHub Issues](https://github.com/G3G4X5X6/flowmind-docs/issues) - 报告产品问题与建议
+- [文档 Issues](https://github.com/gougu-security/flowmind-docs/issues) - 报告文档问题
+- [贡献指南](./dev/contributing.md) - 参与文档贡献

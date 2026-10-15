@@ -1,0 +1,91 @@
+# FlowMind
+
+**AI-Native 应用安全平台** — 面向安全工程师的一站式桌面安全工作台。集成 MITM 代理抓包、流量分析、请求重放、模糊测试、插件化安全检测、精美 HTML 报告与 AI 推理，将渗透测试全流程收敛到单一工具中，让安全人员专注于发现问题而非切换工具。
+
+[![在线文档](https://img.shields.io/badge/文档-在线阅读-6366f1?style=flat-square)](https://gougu-security.github.io/flowmind-docs/)
+
+![FlowMind 转发器界面](./docs/public/screenshots/首页.png)
+
+---
+
+## 为什么选择 FlowMind？
+
+传统安全工具擅长抓包与重放，却难以将流量、漏洞与 AI 推理串联成完整工作流。FlowMind 从设计之初即面向 **AI-Native 安全测试**：在本地完成流量捕获、主动/被动检测、模糊测试与智能分析，数据留在你的设备上，无需依赖云端。
+
+FlowMind 以 **AI 原生** 为设计核心：AI 不只是辅助问答，而是深度参与流量理解、漏洞发现、攻击图构建与报告生成，帮助安全工程师在复杂业务逻辑中发现自动化工具难以覆盖的问题。
+
+| 痛点 | FlowMind 的做法 |
+|------|-----------------|
+| 工具链割裂 | 代理、重放、Fuzz、插件检测、报告在同一工作台完成 |
+| 海量流量难浏览 | 高性能引擎 + 虚拟列表，流畅处理大规模请求 |
+| 规则难以扩展 | Rhai 脚本 / 声明式插件，按需定制扫描能力 |
+| AI 与测试脱节 | 多 Provider、知识库、攻击图谱与安全记忆深度集成 |
+
+## 核心能力
+
+### 智能代理抓包
+
+内嵌高性能 MITM 引擎，支持 HTTP / HTTPS / WebSocket 实时捕获，CA 证书自动管理，流量详情一目了然。
+
+### 流量转发与拦截
+
+实时转发器、请求详情面板，以及 Hold / Modify / Drop 拦截控制，精确掌握每一个请求。
+
+### 请求重放与模糊测试
+
+原始报文重放、结构化请求编辑，多策略 Fuzz（IDOR、Auth Strip、Header 词表等），支持并发与限速。
+
+### 插件化安全检测
+
+基于 Rhai 脚本与声明式规则的插件体系，内置 28 条被动规则 + 8 条主动规则，支持热重载与自定义检测逻辑，自动发现敏感信息泄露、注入攻击与配置缺陷。
+
+### AI 安全分析
+
+多 Provider 对话、Tool Calling、MCP 协议、知识库 / RAG、安全记忆与攻击图谱，让 AI 真正参与测试决策。
+
+### 项目管理与报告
+
+项目级数据隔离、素材剪藏，一键导出精美的 HTML / JSON 报告，轻松沉淀与交付测试成果。
+
+<video controls width="100%">
+  <source src="./docs/public/screenshots/HTML报告展示.mp4" type="video/mp4" />
+  您的浏览器不支持播放视频，请下载后查看。
+</video>
+
+## 适用场景
+
+- Web / API 渗透测试与漏洞挖掘
+- 移动应用与桌面客户端流量分析
+- 安全研究、红队演练与漏洞验证
+- 需要可扩展扫描规则的安全团队
+- 希望将 AI 引入测试流程的安全工程师
+
+## 快速上手
+
+1. 前往 [Releases](https://github.com/G3G4X5X6/flowmind-docs/releases) 下载对应平台安装包
+2. 阅读 [快速开始](https://gougu-security.github.io/flowmind-docs/guide/getting-started) 完成安装与证书配置
+3. 按需查阅 [用户指南](https://gougu-security.github.io/flowmind-docs/guide/) 探索各功能模块
+
+插件开发者请参阅 [插件开发文档](https://gougu-security.github.io/flowmind-docs/dev/plugins/rhai)。
+
+## 企业与合作
+
+需要私有化部署、定制开发或企业授权？欢迎通过 [合作开发](https://gougu-security.github.io/flowmind-docs/api/) 与 [企业版本](https://gougu-security.github.io/flowmind-docs/api/enterprise) 页面联系我们。
+
+## 链接
+
+| 资源 | 地址 |
+|------|------|
+| 在线文档 | https://gougu-security.github.io/flowmind-docs/ |
+| 产品仓库 | https://github.com/G3G4X5X6/flowmind-docs |
+| 问题反馈 | https://github.com/G3G4X5X6/flowmind-docs/issues |
+
+---
+
+<p align="center">
+  <sub>FlowMind — 让应用安全测试更智能、更高效</sub>
+</p>
+
+<p align="center">
+  <sub>文档站点开发说明见 <a href="./dev.md">dev.md</a></sub>
+</p>
